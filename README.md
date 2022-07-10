@@ -53,4 +53,5 @@ abrir servidor local http://localhost:3000
 ![create](https://user-images.githubusercontent.com/78213513/178163163-3d7fe44f-d12a-4b90-b550-21577a664146.PNG)
 
 * Rota Delete:
-![delete](https://user-images.githubusercontent.com/78213513/178163179-b9834382-a72c-4614-a001-b347119740bc.PNG)
+![delete](https://user-images.githubusercontent.com/78213513/178163215-f4ab0346-e342-4fa5-a2fb-de667114344b.PNG)
+
