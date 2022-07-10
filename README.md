@@ -40,13 +40,17 @@ abrir servidor local http://localhost:3000
 ![Capturar](https://user-images.githubusercontent.com/78213513/175385722-155e1f2c-8bed-477d-ac13-853b2f3c0a41.PNG)
 
 * Rota GetAll:
-![getAll](https://user-images.githubusercontent.com/78213513/175386632-3d1681d8-33ec-4dd9-9808-dc2689318202.PNG)
+![getAll](https://user-images.githubusercontent.com/78213513/178163147-f79f3734-ac9d-43b8-adc3-9850d6bc730a.PNG)
 
 
 * Rota GetById:
-![getById](https://user-images.githubusercontent.com/78213513/175386789-f54721e5-096c-4a4e-9c28-8f0f10ec43fd.PNG)
+
+![getById](https://user-images.githubusercontent.com/78213513/178163152-695c6b0f-d0c8-4f74-8e4a-a292b135fd49.PNG)
 
 
-* Rota Update:
-![getById](https://user-images.githubusercontent.com/78213513/175386789-f54721e5-096c-4a4e-9c28-8f0f10ec43fd.PNG)
+* Rota Create:
 
+![create](https://user-images.githubusercontent.com/78213513/178163163-3d7fe44f-d12a-4b90-b550-21577a664146.PNG)
+
+* Rota Delete:
+![delete](https://user-images.githubusercontent.com/78213513/178163179-b9834382-a72c-4614-a001-b347119740bc.PNG)
