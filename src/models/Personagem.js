@@ -11,6 +11,6 @@ const PersonagemSchema = new mongoose.Schema({
   }
 });
 
-const Personagem = mongoose.model('Personagem', PersonagemSchema);
+const Personagem = mongoose.model('api-personagens', PersonagemSchema);
 
 module.exports = Personagem;

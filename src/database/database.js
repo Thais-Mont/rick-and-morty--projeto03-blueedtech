@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const uri = 'mongodb://localhost:27017/rick_and_morty';
+const uri = 'mongodb://localhost:27017/rick-morty';
 
 const connectToDatabase = () => {
   mongoose
